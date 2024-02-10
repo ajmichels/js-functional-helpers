@@ -1,0 +1,6 @@
+.commitlintrc.json
+.eslintrc.json
+.github
+.husky
+.nvmrc
+*.spec.js
